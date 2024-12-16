@@ -1,0 +1,5 @@
+flask
+pyTelegramBotAPI
+pymongo[srv]
+youtube_dl
+yt_dlp
